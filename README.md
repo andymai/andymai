@@ -9,6 +9,6 @@ I build tools for CAD, geometry, and the browser, mostly in TypeScript, Rust, an
 - **[brepkit](https://github.com/andymai/brepkit)**: the B-Rep modeling engine behind brepjs, pure Rust compiled to WASM
 - **[occt-wasm](https://github.com/andymai/occt-wasm)**: OpenCascade compiled to WebAssembly with a clean TypeScript API
 
-I'm also into game development, robotics, 3D printing, and home automation.
+In my free time, I'm into game development, robotics, 3D printing, and home automation.
 
-Currently at [Babylist](https://babylist.com).
+By day, I work on AI/ML at [Babylist](https://babylist.com).
