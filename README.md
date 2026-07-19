@@ -26,4 +26,4 @@ I build tools for CAD and 3D that run in the browser — mostly in TypeScript an
 - **[stackchan-kai](https://github.com/andymai/stackchan-kai)** — Rust firmware for the M5Stack CoreS3 robot, running fully offline
 - **[plancktons](https://github.com/andymai/plancktons)** — a simulation of how tetrahedra pack together, in 3D
 
-<sub>Also into game dev, robotics, 3D printing, and home automation. Ask me about my cat hair. 🐈</sub>
+<sub>Also into game dev, robotics, 3D printing, and home automation.</sub>
