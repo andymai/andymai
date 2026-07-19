@@ -16,10 +16,10 @@ Mostly TypeScript and Rust, compiled to WASM.
 
 | Project | What it is | |
 | --- | --- | --- |
-| **[brepjs](https://github.com/andymai/brepjs)** | Web CAD library with exact B-Rep geometry. [Live playground →](https://brepjs.dev/playground) | [![stars](https://img.shields.io/github/stars/andymai/brepjs?style=flat&label=%E2%98%85)](https://github.com/andymai/brepjs) [![npm](https://img.shields.io/npm/v/brepjs?label=npm)](https://www.npmjs.com/package/brepjs) |
-| **[occt-wasm](https://github.com/andymai/occt-wasm)** | OpenCascade compiled to WASM with a clean TypeScript API — smaller bundles, branded types, arena memory. | [![stars](https://img.shields.io/github/stars/andymai/occt-wasm?style=flat&label=%E2%98%85)](https://github.com/andymai/occt-wasm) [![npm](https://img.shields.io/npm/v/occt-wasm?label=npm)](https://www.npmjs.com/package/occt-wasm) |
-| **[brepkit](https://github.com/andymai/brepkit)** | The pure-Rust solid-modeling kernel behind brepjs — `#![forbid(unsafe)]`, compiled to WASM. | [![stars](https://img.shields.io/github/stars/andymai/brepkit?style=flat&label=%E2%98%85)](https://github.com/andymai/brepkit) [![npm](https://img.shields.io/npm/v/brepkit-wasm?label=npm)](https://www.npmjs.com/package/brepkit-wasm) |
-| **[gridfinity-layout-tool](https://github.com/andymai/gridfinity-layout-tool)** | Plan 3D-printed drawer layouts in the browser. Live PWA at [gridfinitylayouttool.com](https://gridfinitylayouttool.com). | [![stars](https://img.shields.io/github/stars/andymai/gridfinity-layout-tool?style=flat&label=%E2%98%85)](https://github.com/andymai/gridfinity-layout-tool) |
+| **[brepjs](https://github.com/andymai/brepjs)** | Web CAD library with exact B-Rep geometry. | [playground](https://brepjs.dev/playground) · [npm](https://www.npmjs.com/package/brepjs) |
+| **[occt-wasm](https://github.com/andymai/occt-wasm)** | OpenCascade compiled to WASM with a clean TypeScript API — smaller bundles, branded types, arena memory. | [npm](https://www.npmjs.com/package/occt-wasm) · [crates](https://crates.io/crates/occt-wasm) |
+| **[brepkit](https://github.com/andymai/brepkit)** | The pure-Rust solid-modeling kernel behind brepjs — `#![forbid(unsafe)]`, compiled to WASM. | [npm](https://www.npmjs.com/package/brepkit-wasm) |
+| **[gridfinity-layout-tool](https://github.com/andymai/gridfinity-layout-tool)** | Plan 3D-printed drawer layouts in the browser. | [live app](https://gridfinitylayouttool.com) |
 
 #### 🔬 Also building
 
