@@ -1,14 +1,31 @@
+<div align="center">
+
 ### Andy Aragon
 
-In my free time, I build tools for CAD, geometry, and the browser, mostly in TypeScript, Rust, and WebAssembly.
+**AI/ML [@Babylist](https://babylist.com) by day. CAD, geometry & WebAssembly by night.**
 
-**What I'm building**
+I build tools that put native-grade solid modeling in the browser — exact B-Rep
+kernels, deterministic simulations, and geometry that runs at 60fps in a tab.
+Mostly TypeScript and Rust, compiled to WASM.
 
-- **[gridfinity-layout-tool](https://github.com/andymai/gridfinity-layout-tool)**: plan Gridfinity drawer layouts in the browser
-- **[brepjs](https://github.com/andymai/brepjs)**: web CAD library with exact B-Rep geometry
-- **[brepkit](https://github.com/andymai/brepkit)**: the B-Rep modeling engine behind brepjs, pure Rust compiled to WASM
-- **[occt-wasm](https://github.com/andymai/occt-wasm)**: OpenCascade compiled to WebAssembly with a clean TypeScript API
+</div>
 
-I'm also into game development, robotics, 3D printing, and home automation.
+---
 
-By day, I work on AI/ML at [Babylist](https://babylist.com).
+#### 🛠️ Shipped & published
+
+| Project | What it is | |
+| --- | --- | --- |
+| **[brepjs](https://github.com/andymai/brepjs)** | Web CAD library with exact B-Rep geometry. [Live playground →](https://brepjs.dev/playground) | [![stars](https://img.shields.io/github/stars/andymai/brepjs?style=flat&label=%E2%98%85)](https://github.com/andymai/brepjs) [![npm](https://img.shields.io/npm/v/brepjs?label=npm)](https://www.npmjs.com/package/brepjs) |
+| **[occt-wasm](https://github.com/andymai/occt-wasm)** | OpenCascade compiled to WASM with a clean TypeScript API — smaller bundles, branded types, arena memory. | [![stars](https://img.shields.io/github/stars/andymai/occt-wasm?style=flat&label=%E2%98%85)](https://github.com/andymai/occt-wasm) [![npm](https://img.shields.io/npm/v/occt-wasm?label=npm)](https://www.npmjs.com/package/occt-wasm) |
+| **[brepkit](https://github.com/andymai/brepkit)** | The pure-Rust solid-modeling kernel behind brepjs — `#![forbid(unsafe)]`, compiled to WASM. | [![stars](https://img.shields.io/github/stars/andymai/brepkit?style=flat&label=%E2%98%85)](https://github.com/andymai/brepkit) [![npm](https://img.shields.io/npm/v/brepkit-wasm?label=npm)](https://www.npmjs.com/package/brepkit-wasm) |
+| **[gridfinity-layout-tool](https://github.com/andymai/gridfinity-layout-tool)** | Plan 3D-printed drawer layouts in the browser. Live PWA at [gridfinitylayouttool.com](https://gridfinitylayouttool.com). | [![stars](https://img.shields.io/github/stars/andymai/gridfinity-layout-tool?style=flat&label=%E2%98%85)](https://github.com/andymai/gridfinity-layout-tool) |
+
+#### 🔬 Also building
+
+- **[ecsia](https://github.com/andymai/ecsia)** — fast, type-safe entity component system for TypeScript with automatic multithreading
+- **[elevator-core](https://github.com/andymai/elevator-core)** — Rust discrete-event simulation library: *from a 5-story office to a space elevator, same engine, same API*
+- **[stackchan-kai](https://github.com/andymai/stackchan-kai)** — clean-slate `no_std` Rust firmware for the M5Stack CoreS3 robot — embassy, no cloud
+- **[plancktons](https://github.com/andymai/plancktons)** — Monte-Carlo tetrahedra packing with R3F visualization and fractal-dimension analysis
+
+<sub>Also into game dev, robotics, 3D printing, and home automation. Ask me about my cat hair. 🐈</sub>
